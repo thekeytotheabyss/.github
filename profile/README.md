@@ -1,8 +1,10 @@
-# The Abyss
+# The Key to the Abyss
+This GitHub org is responsible for the primary distribution site for the key to the Abyss.
 
-This encrypted document outlines a planned and authorized false flag operation, set to be carried out within the month in Atlanta, Georgia. The document is being distributed in its current form without any means of decryption at this time. It is being posted preemptively to ensure its presence in the public domain prior to the occurrence of the event it describes, with timestamps serving as verification that it was made available beforehand. Should the event described in the document occur, the private key and passphrase required for decryption will be made publicly accessible immediately afterward. The encryption ensures that the document's contents cannot be altered or fabricated after the fact.
+Visit the site https://thekeytotheabyss.github.io
 
-## Encrypted Message 
+## The Little Scroll
+For more information see https://thelittlescroll.github.io
 
 ``` 
 -----BEGIN PGP MESSAGE-----
@@ -110,8 +112,3 @@ rd3Ko7jGuZHBuiYH6hH49w==
 =i09W
 -----END PGP MESSAGE-----
 ```
-
-## Decrypting
-"The key to the Abyss" necessary to decrypt and read the encrypted document will be committed to the_abyss repository on GitHub immediately after the operation is completed.
-
-the_abyss repository is located at: https://github.com/sorSsmyrna/the_abyss
